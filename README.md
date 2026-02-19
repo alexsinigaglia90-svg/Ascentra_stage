@@ -1,4 +1,4 @@
-# MrHutch
+# Mr.Hutch
 
 Premium Next.js web-app voor warme, luxe baby/kraamcadeau-creaties..
 
